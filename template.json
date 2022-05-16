@@ -1,0 +1,79 @@
+{
+    "business" : "restaurant",
+    "type" : "template",
+    "duration": 18.78,
+    "template-url" : "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
+    "background-score" : {
+        "score-url" : "http://s3.amazonaws.com/whilter-music/library/score-1.mp3",
+        "start-time" : 0.31,
+        "end-time" : 19.09
+    },
+    "components" : [
+        {
+            "slot-id" : 1,
+            "component-url" : "http://s3.amazonaws.com/whilter-components/generic/start-12.mpeg",
+            "type" : "start-content",
+            "start-time" : 0.0,
+            "end-time" : 2.53
+        },
+        {
+            "slot-id" : 2,
+            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "type" : "product",
+            "start-time" : 2.53,
+            "end-time" : 4.67
+        },
+        {
+            "slot-id" : 3,
+            "component-url" : "http://s3.amazonaws.com/whilter-library/restaurant/aspiration-1.mpeg",
+            "type" : "aspiration",
+            "start-time" : 4.67,
+            "end-time" : 8.98
+        },
+        {
+            "slot-id" : 4,
+            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "type" : "product",
+            "start-time" : 8.98,
+            "end-time" : 14.39
+        },
+        {
+            "slot-id" : 5,
+            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "type" : "end-content",
+            "start-time" : 14.39,
+            "end-time" : 18.78
+        }
+    ],
+    "overlays" : {
+        "text-element" : [
+            {
+                "text" : "20% Off",
+                "font" : "sans-serif",
+                "font-size" : 18,
+                "position-x" : "100px",
+                "position-y" : "100px",
+                "start-time" : 1.24,
+                "end-time" : 1.35
+            },
+            {
+                "text" : "Join us during day time",
+                "font" : "sans-serif",
+                "font-size" : 24,
+                "position-x" : "100px",
+                "position-y" : "100px",
+                "start-time" : 14.39,
+                "end-time" : 18.78
+            }
+        ],
+        "logos" : [
+            {
+                "logo-url" : "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
+                "start-time" : 6.5,
+                "end-time" : 8.5,
+                "transition-in" : "fade-in",
+                "transition-out" : "fade-out"
+            }
+        ]
+    }
+}

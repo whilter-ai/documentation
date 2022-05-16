@@ -1,0 +1,8 @@
+{
+    "component-url" : "http://s3.amazonaws.com/whilter-components/product/component-1.mpeg",
+    "business" : ["restaurant", "generic"],
+    "type" : "food",
+    "sub-type" : "north-indian",
+    "length" : 4.1,
+    "inflection-time" : [1.9]
+}
