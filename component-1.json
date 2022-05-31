@@ -1,10 +1,12 @@
 {
-    "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+    "raw-component-url" : "http://s3.amazonaws.com/whilter-components/raw/aspiration/component-1.mpeg",
+    "component-url" : "http://s3.amazonaws.com/whilter-components/insta-reels/aspiration/component-1.mpeg",
     "business" : ["restaurant", "generic"],
-    "type" : "people",
-    "sub-type" : "1-male",
+    "type" : "people", // people, food, place
+    "sub-type" : "male_single", // male_single, male_two, female_single, female_two, friend_group
     "length" : 5.23,
     "inflection-time" : [1.3, 4.5],
+    "format" : "insta-reels",
     "text-box" : {
         "position-x" : "100px",
         "position-y" : "100px",
