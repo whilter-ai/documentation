@@ -1,78 +1,80 @@
 {
     "business" : "restaurant",
-    "type" : "template",
+    "assets_type" : "template",
     "duration": 18.78,
-    "template-url" : "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
-    "background-score" : {
-        "score-url" : "http://s3.amazonaws.com/whilter-music/library/score-1.mp3",
-        "start-time" : 0.31,
-        "end-time" : 19.09
+    "template_url" : "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
+    "background_score" : {
+        "score_url" : "http://s3.amazonaws.com/whilter-music/library/score-1.mp3",
+        "start_time" : 0.31,
+        "end_time" : 19.09
     },
     "components" : [
         {
-            "slot-id" : 1,
-            "component-url" : "http://s3.amazonaws.com/whilter-components/generic/start-12.mpeg",
-            "type" : "start-content",
-            "start-time" : 0.0,
-            "end-time" : 2.53
+            "slot_id" : 1,
+            "component_url" : "http://s3.amazonaws.com/whilter-components/generic/start-12.mpeg",
+            "component_type" : "start_content",
+            "start_time" : 0.0,
+            "end_time" : 2.53
         },
         {
-            "slot-id" : 2,
-            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
-            "type" : "product",
-            "start-time" : 2.53,
-            "end-time" : 4.67
+            "slot_id" : 2,
+            "component_url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "component_type" : "product",
+            "start_time" : 2.53,
+            "end_time" : 4.67
         },
         {
-            "slot-id" : 3,
-            "component-url" : "http://s3.amazonaws.com/whilter-library/restaurant/aspiration-1.mpeg",
-            "type" : "aspiration",
-            "start-time" : 4.67,
-            "end-time" : 8.98
+            "slot_id" : 3,
+            "component_url" : "http://s3.amazonaws.com/whilter-library/restaurant/aspiration-1.mpeg",
+            "component_type" : "aspiration",
+            "start_time" : 4.67,
+            "end_time" : 8.98
         },
         {
-            "slot-id" : 4,
-            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
-            "type" : "product",
-            "start-time" : 8.98,
-            "end-time" : 14.39
+            "slot_id" : 4,
+            "component_url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "component_type" : "product",
+            "start_time" : 8.98,
+            "end_time" : 14.39
         },
         {
-            "slot-id" : 5,
-            "component-url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
-            "type" : "end-content",
-            "start-time" : 14.39,
-            "end-time" : 18.78
+            "slot_id" : 5,
+            "component_url" : "http://s3.amazonaws.com/whilter-components/aspiration/component-1.mpeg",
+            "component_type" : "end_content",
+            "start_time" : 14.39,
+            "end_time" : 18.78
         }
     ],
     "overlays" : {
-        "text-element" : [
+        "logos": [
             {
-                "text" : "20% Off",
-                "font" : "sans-serif",
-                "font-size" : 18,
-                "position-x" : "100px",
-                "position-y" : "100px",
-                "start-time" : 1.24,
-                "end-time" : 1.35
-            },
-            {
-                "text" : "Join us during day time",
-                "font" : "sans-serif",
-                "font-size" : 24,
-                "position-x" : "100px",
-                "position-y" : "100px",
-                "start-time" : 14.39,
-                "end-time" : 18.78
+                "logo_url": "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
+                "start_time": 6.5,
+                "end_time": 8.5,
+                "transition_in": "fade-in",
+                "transition_out": "fade-out",
+                "position_x": "100px",
+                "position_y": "100px"
             }
         ],
-        "logos" : [
+        "text_element": [
             {
-                "logo-url" : "http://s3.amazonaws.com/whilter-templates/restaurant/template-1.mpeg",
-                "start-time" : 6.5,
-                "end-time" : 8.5,
-                "transition-in" : "fade-in",
-                "transition-out" : "fade-out"
+                "text": "20% Off",
+                "font": "sans_serif",
+                "font_size": 18,
+                "position_x": "100px",
+                "position_y": "100px",
+                "start_time": 1.24,
+                "end_time": 1.35
+            },
+            {
+                "text": "Join us during day time",
+                "font": "sans_serif",
+                "font_size": 24,
+                "position_x": "100px",
+                "position_y": "100px",
+                "start_time": 14.39,
+                "end_time": 18.78
             }
         ]
     }
