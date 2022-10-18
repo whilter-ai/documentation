@@ -5,8 +5,8 @@
   "template_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/Nikkamal+Jewellers+-+D3.mp4",
   "background_score": {
     "score_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/bg-score.wav",
-    "start_time": 0,
-    "end_time": 28
+    "start_time": 0.0,
+    "end_time": 28.0
   },
   "components": [
     {
