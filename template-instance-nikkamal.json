@@ -1,0 +1,242 @@
+{
+  "business": "jeweller",
+  "assets_type": "template",
+  "duration": 29.24,
+  "template_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/Nikkamal+Jewellers+-+D3.mp4",
+  "background_score": {
+    "score_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/bg-score.wav",
+    "start_time": 0,
+    "end_time": 28
+  },
+  "components": [
+    {
+      "slot_id": 1,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0001_C5494.mov",
+      "component_type": "pendant",
+      "start_time": 0.0,
+      "end_time": 0.22
+    },
+    {
+      "slot_id": 2,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0002_C5497.mov",
+      "component_type": "rings",
+      "start_time": 0.23,
+      "end_time": 2.13
+    },
+    {
+      "slot_id": 3,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0003_C5447.mov",
+      "component_type": "necklace-big",
+      "start_time": 2.14,
+      "end_time": 4.04
+    },
+    {
+      "slot_id": 4,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0004_C5498.mov",
+      "component_type": "necklace-big",
+      "start_time": 4.05,
+      "end_time": 5.19
+    },
+    {
+      "slot_id": 5,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0005_C5495.mov",
+      "component_type": "necklace",
+      "start_time": 5.2,
+      "end_time": 7.1
+    },
+    {
+      "slot_id": 6,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0006_C5496.mov",
+      "component_type": "jewellery",
+      "start_time": 7.11,
+      "end_time": 9.01
+    },
+    {
+      "slot_id": 7,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0007_Rotation.mov",
+      "component_type": "ring",
+      "start_time": 9.02,
+      "end_time": 9.21
+    },
+    {
+      "slot_id": 8,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/C5515.mp4",
+      "component_type": "earring",
+      "start_time": 9.22,
+      "end_time": 10.16
+    },
+    {
+      "slot_id": 9,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/C5514.mp4",
+      "component_type": "jewellery",
+      "start_time": 10.17,
+      "end_time": 11.12
+    },
+    {
+      "slot_id": 10,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0008_C5506.mov",
+      "component_type": "jewellery-set",
+      "start_time": 11.13,
+      "end_time": 12.07
+    },
+    {
+      "slot_id": 11,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0009_C5517.mov",
+      "component_type": "necklace",
+      "start_time": 12.08,
+      "end_time": 13.02
+    },
+    {
+      "slot_id": 12,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0010_C5507.mov",
+      "component_type": "earring",
+      "start_time": 13.03,
+      "end_time": 16.07
+    },
+    {
+      "slot_id": 13,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0011_C5441.mov",
+      "component_type": "mirrorshot",
+      "start_time": 16.08,
+      "end_time": 17.01
+    },
+    {
+      "slot_id": 14,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0012_C5449.mov",
+      "component_type": "customer",
+      "start_time": 17.02,
+      "end_time": 18.16
+    },
+    {
+      "slot_id": 15,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0013_C5461.mov",
+      "component_type": "earring",
+      "start_time": 18.17,
+      "end_time": 20.07
+    },
+    {
+      "slot_id": 16,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0014_C5466.mov",
+      "component_type": "necklace",
+      "start_time": 20.08,
+      "end_time": 21.23
+    },
+    {
+      "slot_id": 17,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0015_C5462.mov",
+      "component_type": "necklace",
+      "start_time": 21.24,
+      "end_time": 22.18
+    },
+    {
+      "slot_id": 18,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0016_C5478.mov",
+      "component_type": "bangles",
+      "start_time": 22.19,
+      "end_time": 23.13
+    },
+    {
+      "slot_id": 19,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0017_C5472.mov",
+      "component_type": "ring",
+      "start_time": 23.14,
+      "end_time": 25.04
+    },
+    {
+      "slot_id": 20,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0018_C5470.mov",
+      "component_type": "ring",
+      "start_time": 25.05,
+      "end_time": 25.24
+    },
+    {
+      "slot_id": 21,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V1-0019_End.mov",
+      "component_type": "customer",
+      "start_time": 26.0,
+      "end_time": 29.24
+    },
+    {
+      "slot_id": 22,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0001_100154957.mov",
+      "component_type": "product",
+      "start_time": 0.23,
+      "end_time": 3.23
+    },
+    {
+      "slot_id": 23,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0002_100156092.mov",
+      "component_type": "product",
+      "start_time": 4.15,
+      "end_time": 5.15
+    },
+    {
+      "slot_id": 24,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0003_100191853.mov",
+      "component_type": "product",
+      "start_time": 7.15,
+      "end_time": 8.15
+    },
+    {
+      "slot_id": 25,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0004_100182000.mov",
+      "component_type": "product",
+      "start_time": 13.0,
+      "end_time": 16.0
+    },
+    {
+      "slot_id": 26,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0006_100156092.mov",
+      "component_type": "product",
+      "start_time": 20.08,
+      "end_time": 21.08
+    },
+    {
+      "slot_id": 27,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0007_100191853.mov",
+      "component_type": "product",
+      "start_time": 23.14,
+      "end_time": 24.14
+    },
+    {
+      "slot_id": 28,
+      "component_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/V3-0008_100182000.mov",
+      "component_type": "product",
+      "start_time": 26.0,
+      "end_time": 29.0
+    }
+  ],
+  "overlays": {
+    "logos": [
+      {
+        "logo_url": "https://whilter-orig-assets.s3.ap-south-1.amazonaws.com/Nikkamal+Jewellers+Template+Footage/XML/logo-small.png",
+        "start_time": 6.5,
+        "end_time": 25.5,
+        "transition_in": "fade-in",
+        "transition_out": "fade-out",
+        "position_x": "10px",
+        "position_y": "10px"
+      }
+    ],
+    "text_element": [
+      {
+        "text": "20% Off",
+        "font": "sans_serif",
+        "font_size": 18,
+        "position_x": "100px",
+        "position_y": "100px",
+        "start_time": 1.24,
+        "end_time": 2.35
+      },
+      {
+        "text": "Join us during day time",
+        "font": "sans_serif",
+        "font_size": 24,
+        "position_x": "100px",
+        "position_y": "100px",
+        "start_time": 3.39,
+        "end_time": 5.78
+      }
+    ]
+  }
+}
